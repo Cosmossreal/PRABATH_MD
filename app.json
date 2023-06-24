@@ -1,10 +1,10 @@
 {
 
-  "name": "PRABATH-MD",
+  "name": "asap",
 
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "description": "asap has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
+  "logo": "https://i.imgur.com/sdrBqIx.jpg",
 
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device"],
 
@@ -18,15 +18,15 @@
 
   "description": "BOT ට එන්න ඕන නම දෙන්න ",
 
-      "value": "👨‍💻 PRABATH-MD-WA-BOT 👨‍💻"
+      "value": "asap"
 
   },
 
-  "ALIVE_IMG": {
+  "ALIVE_IMG": {https://i.imgur.com/sdrBqIx.jpg
 
     "description": "alive එකට එන්න ඕන image එකක url එකක් දෙන්න",
 
-     "required" :false
+     "required" :true
 
     },
 
@@ -58,7 +58,7 @@
 
     "description": "antilink ඔන් කලවිට මෙම ලින්ක් දැමූවිට පරිශීලකයා remove වේ",
 
-     "value": "chat.whatsapp.com",
+     "value": "asap",
 
      "required" :false
 
@@ -94,7 +94,7 @@
 
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
 
-       "value": "94762280384"
+       "value": "212775007357"
 
   },
 
@@ -120,7 +120,7 @@
 
        "value": "  *Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th",
 
-       "required" :false
+       "required" :true
 
   },
 
@@ -134,7 +134,7 @@
 
     "description": "මෙය වෙනස් නොකරන්න (Don't Change This) ",
 
-     "value": "PRABATH-MD"
+     "value": "asap"
 
   },
 
@@ -150,9 +150,9 @@
 
     "description": "Put packname;authorname.",
 
-     "value": "PRABATH-MD🎊;𝚙𝚛𝚊𝚋𝚊𝚝𝚑✅",
+     "value": "asap",
 
-     "required": false 
+     "required": true 
 
   }
 
