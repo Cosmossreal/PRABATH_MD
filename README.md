@@ -1,7 +1,7 @@
   <p align="center">  
-  <a href="https://i.ibb.co/7YGn5qS/20230305-135924.jpg">
+  <a href="https://i.imgur.com/9gGticJ.mp4">
     <img alt="secktor docs" height="300" src="https://i.ibb.co/7YGn5qS/20230305-135924.jpg">
-    <h1 align="center"> PRABATH-MD </h1>
+    <h1 align="center"> asap real </h1>
   </a>
 </p>  
 <p align="center">
@@ -56,7 +56,7 @@
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/NO4jvb?referralCode=iM43z3)
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/PrabathLK/PRABATH_MD&template=https://github.com/PrabathLK/PRABATH_MD.git)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/PrabathLK/PRABATH_MD&template=https://github.com/Cosmossreal/PRABATH_MD.git)
 
   
 
