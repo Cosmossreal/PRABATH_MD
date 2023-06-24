@@ -1,6 +1,6 @@
   <p align="center">  
   <a href="https://i.imgur.com/9gGticJ.mp4">
-    <img alt="secktor docs" height="300" src="https://i.ibb.co/7YGn5qS/20230305-135924.jpg">
+    <img alt="secktor docs" height="300" src="https://i.imgur.com/9gGticJ.mp4">
     <h1 align="center"> asap real </h1>
   </a>
 </p>  
