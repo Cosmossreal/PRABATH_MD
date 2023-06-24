@@ -7,21 +7,21 @@ global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "Enter-MongoURI-HERE"
 global.port= process.env.PORT || 5000
 global.email = 'sam@sec.live'
-global.github = 'https://github.com/prabathLK/PRABATH-MD'
+global.github = 'https://github.com/Cosmossreal/PRABATH_MD'
 global.location = 'Sultanpur IN'
-global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || '94762280384'
-global.devs = '94762280384';
-global.website = 'https://github.com/prabathLK/PRABATH-MD' //wa.me/+94762280384
+global.gurl = 'https://instagram.com/9vrbq?igshid=NTc4MTIwNjQ2YQ==
+global.sudo = process.env.SUDO || '212775007357'
+global.devs = '212775007357';
+global.website = 'https://github.com/Cosmossreal/PRABATH_MD' //wa.me/+212775007357
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/H062oEI.jpeg'
 module.exports = {
   botname: process.env.BOT_NAME || '𝐒𝐞𝐜𝐤𝐭𝐨𝐫 𝐁𝐨𝐭𝐭𝐨',
-  autosticker: process.env.AUTO_STICKER || 'false',
+  autosticker: process.env.AUTO_STICKER || 'true',
   autovoice: process.env.AUTO_VOICE || 'false',
   botapikey: process.env.BOTCAHX_API || '',
-  alivepic: process.env.ALIVE_IMG || 'https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg',
-  alivemsj: process.env.ALIVE_MSJ || '*The bot developer is prabath* 🎊',
-  ownername:process.env.OWNER_NAME || 'PRABATH',
+  alivepic: process.env.ALIVE_IMG || 'https://i.imgur.com/sdrBqIx.jpg',
+  alivemsj: process.env.ALIVE_MSJ || 'I ASAP DVE IG 9VRBQ',
+  ownername:process.env.OWNER_NAME || 'ASAP',
   sessionName: process.env.SESSION_ID || 'PUT-HERE',
   author: process.env.PACK_INFO.split(";")[0] || 'author', 
   auto_read_status : process.env.AUTO_READ_STATUS || 'false',
